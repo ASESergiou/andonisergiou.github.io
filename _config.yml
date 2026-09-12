@@ -22,7 +22,7 @@ repository               : "ASESergiou/andonisergiou.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile 3.jpg"
+  avatar           : "profile 3.png"
   name             : "Dr. Andoni Sergiou"
   pronouns         : # example: "he/his"  
   bio              : "Anthropologist studying the evolution and computational foundations of symbolic cognition and culture."
