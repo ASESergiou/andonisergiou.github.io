@@ -34,7 +34,7 @@ redirect_from:
 
   <div class="symbol-image">
     <img
-      src="{{ '/images/symbols.jpg' | relative_url }}"
+      src="{{ '/images/symbols.png' | relative_url }}"
       alt="Photographs of symbolic forms spanning prehistoric and historical contexts">
   </div>
 
