@@ -13,9 +13,9 @@ title                    : "Andoni S. E. Sergiou"
 title_separator          : "-"
 name                     : &name "Andoni S. E. Sergiou"
 description              : &description "Anthropologist studying the evolution and computational foundations of symbolic cognition and culture."  
-url                      : https://asesergiou.github.io                                                         
+url                      : https://andonisergiou.github.io                                                         
 baseurl                  : "" 
-repository               : "asesergiou/asesergiou.github.io"
+repository               : "asesergiou/andonisergiou.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
