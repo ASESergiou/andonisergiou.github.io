@@ -13,7 +13,7 @@ title                    : "Andoni S. E. Sergiou"
 title_separator          : "-"
 name                     : &name "Andoni S. E. Sergiou"
 description              : &description "Anthropologist studying the evolution and computational foundations of symbolic cognition and culture."  
-url                      : "https://asesergiou.github.io"                                                         
+url                      : https://asesergiou.github.io                                                         
 baseurl                  : "" 
 repository               : "asesergiou/asesergiou.github.io"
 
